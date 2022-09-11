@@ -21,3 +21,14 @@ We studied many aspects of hotels in Riyadh to have a comprehensive visualizatio
 # Preprossing :
 We had to deal with the dataset separately and clenad it in each sector 
 
+# The file guides :
+1-ThingsToDoRiyadh.csv : Web scrpaing of TripAdvisor for thing to do in Ryiadh <br />
+2-Final_activity.ipynb : Preprossing and eda for the thing to do in Ryiadh <br />
+3-RUHResturant.xlsx :  Web scrpaing of TripAdvisor for restrant in Ryiadh <br />
+4-RUHResturnat_cleaning.ipynb : Preprossing and eda for the restaurant in Ryiadh <br />
+5-RUHResturant_Dataset : The dataset for restaurant after clean it in EXEL <br />
+6-WebScrapingBooking.ipynb : Web scrpaing of Booking website in Ryiadh <br /> 
+7-RiyadhHotelBooking.xlsx : Dataset from wep scrpaing <br />
+8-BookingHotelsPreProcessing.ipynb :  Preprossing and eda for the booking dataset <br />
+9-BookingDashbord : Daashbrd in python for Booking  <br />
+10-Booking_ML.ipynb : Classification model in machine learning <br />
