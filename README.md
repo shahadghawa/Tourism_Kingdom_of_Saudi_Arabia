@@ -56,9 +56,9 @@ Accuracy: 0.95 <br />
 2- Deploy the models. <br />
 
 
-# Recommendation:
+# Recommendations:
 1 - Utilization of digital transformation. <br />
 2 - Focusing on trending applications and international websites. <br />
 3 - Motivate the tourist places to activate their accounts on the related platform. <br />
-4 - Motivate Evalution Culture. <br />
+4 - Motivate Evaluation Culture. <br />
 
