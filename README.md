@@ -18,6 +18,14 @@ We studied many aspects of hotels in Riyadh to have a comprehensive visualizatio
 2- Web scrpaing of TripAdvisor website <br />
 3- Web scrpaing of Booking website
 
+
+# Dashboard :
+<img width="1512" alt="Screen Shot 1444-02-18 at 12 11 32 AM" src="https://user-images.githubusercontent.com/94755943/190010140-fa0408d0-403d-4b40-bac0-20a567e03c94.png">
+
+<img width="1512" alt="Screen Shot 1444-02-18 at 12 11 07 AM" src="https://user-images.githubusercontent.com/94755943/190010164-d5c74434-f361-418b-98f0-a394d854b623.png">
+
+<img width="1512" alt="Screen Shot 1444-02-18 at 12 10 31 AM" src="https://user-images.githubusercontent.com/94755943/190010177-d4dd9ff4-ad5d-47bb-932d-71a6e7c92648.png">
+
 # Preprocessing :
 We had to deal with the dataset separately and clean it in each sector 
 
