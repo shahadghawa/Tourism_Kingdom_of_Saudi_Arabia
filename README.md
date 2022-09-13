@@ -65,6 +65,7 @@ Accuracy: 0.95 <br />
 
 
 # Recommendations:
+We Would recommend the Ministry of Tourism to :
 1 - Utilization of digital transformation. <br />
 2 - Focusing on trending applications and international websites. <br />
 3 - Motivate the tourist places to activate their accounts on the related platform. <br />
