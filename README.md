@@ -58,7 +58,7 @@ Accuracy: 0.95 <br />
 
 # Recommendation:
 1 - Utilization of digital transformation. <br />
-2 - Focusing on the trending application and international website. <br />
+2 - Focusing on trending applications and international websites. <br />
 3 - Motivate the tourist places to activate their accounts on the related platform. <br />
-4 - Evalution Culture. <br />
+4 - Motivate Evalution Culture. <br />
 
