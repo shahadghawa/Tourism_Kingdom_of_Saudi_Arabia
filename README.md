@@ -18,7 +18,7 @@ We studied many aspects of hotels in Riyadh to have a comprehensive visualizatio
 2- Web scrpaing of TripAdvisor website <br />
 3- Web scrpaing of Booking website
 
-# Preprossing :
+# Preprocessing :
 We had to deal with the dataset separately and clean it in each sector 
 
 # The file guides :
