@@ -29,9 +29,9 @@ We had to deal with the dataset separately and clean it in each sector
 5-RUHResturant_Dataset : The dataset for restaurant After cleaning in Excel <br />
 6-WebScrapingBooking.ipynb : Web scrpaing of Booking For Riyadh city <br /> 
 7-RiyadhHotelBooking.xlsx : Dataset from wep scrpaing <br />
-8-BookingHotelsPreProcessing.ipynb :  Preprocessing for the booking dataset <br />
-9-BookingDashbord : Daashbrd in python for Booking  <br />
-10-Booking_ML.ipynb : Classification model in machine learning <br />
+8-BookingHotelsPreProcessing.ipynb :  Preprocessing for the Booking website <br />
+9-BookingDashbord : Dashboard in python for Booking  <br />
+10-Booking_ML.ipynb : Machine Learning ( Classification Algorithms) <br />
 
 
 # Results :
