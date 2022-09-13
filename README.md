@@ -19,7 +19,7 @@ We studied many aspects of hotels in Riyadh to have a comprehensive visualizatio
 3- Web scrpaing of Booking website
 
 # Preprossing :
-We had to deal with the dataset separately and clenad it in each sector 
+We had to deal with the dataset separately and clean it in each sector 
 
 # The file guides :
 1-ThingsToDoRiyadh.csv : Web scrpaing of TripAdvisor for thing to do in Ryiadh <br />
@@ -32,3 +32,33 @@ We had to deal with the dataset separately and clenad it in each sector
 8-BookingHotelsPreProcessing.ipynb :  Preprossing for the booking dataset <br />
 9-BookingDashbord : Daashbrd in python for Booking  <br />
 10-Booking_ML.ipynb : Classification model in machine learning <br />
+
+
+# Results :
+The first version of the dataset was very limited, we forced to do another web scraping to have additional layer of information that makes effects in Exploratory Data Analysis, and Classification models.
+
+We then made classes for the continuous columns, after that, transformed them into dummy variables.
+
+In the machine learning models, we directly used Random Forest and XGBoost and built 8 classification models, because they usually provides us the highest accuracy and better predictions.
+
+The best results out of these 8 is:<br />
+
+1- Predict type of review rating (ReviewRatingVec column) using XGBoost<br />
+
+Accuracy: 0.95 <br />
+2- Predict class of residence (Starsvec column) using XGBoost <br />
+
+Accuracy: 0.95 <br />
+# Future work :
+
+1- Using regression models to predict the price of the hotels based on the season, class of residence, customers reviews, location, distance to airport . <br />
+
+2- Deploy the models. <br />
+
+
+# Recommendation:
+Utilization of digital transformation. <br />
+Focusing on the trending application and international website. <br />
+Motivate the tourist places to activate their accounts on the related platform. <br />
+Evalution Culture. <br />
+
