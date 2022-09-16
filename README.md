@@ -2,6 +2,17 @@
 <img width="1512" alt="Screen Shot 1444-02-12 at 1 13 07 PM" src="https://user-images.githubusercontent.com/94755943/189503586-5d19cc99-a07d-4528-8aef-5b9ac904a7d4.png">
 
 
+## Team members:
+
+Basmaa Almutairi<br />
+
+Shahad Ghawa<br />
+
+Najla Alqahtani<br />
+
+Nawaf Alkanhal<br />
+
+
 ## Intro:
 Problem Statement: Tourism development is an important driver of growth for the future of Saudi Arabia. It is one of the key pillars at the heart of Vision 2030’s plan to help diversify the economy and reduce reliance on oil. Ministry of Tourism in Saudi Arabia is playing huge role to achieve The Kingdom of Saudi Arabia’s 2030 Vision.<br />
 It is part of Quality of Life program which was launched in 2018 to improve the quality of life of residents and visitors to the Kingdom by developing the necessary environment to create more vibrant options that enhance the participation and experience of citizens and residents.
