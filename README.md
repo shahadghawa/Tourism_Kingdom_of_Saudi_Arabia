@@ -31,11 +31,12 @@ We studied many aspects of hotels in Riyadh to have a comprehensive visualizatio
 
 
 ## Dashboard :
-<img width="1512" alt="Screen Shot 1444-02-18 at 12 11 32 AM" src="https://user-images.githubusercontent.com/94755943/190010140-fa0408d0-403d-4b40-bac0-20a567e03c94.png">
+<img width="1083" alt="Screen Shot 1444-02-22 at 3 50 48 PM" src="https://user-images.githubusercontent.com/94755943/190903026-6571288f-5bfe-47f4-a288-1d080da107f2.png">
 
-<img width="1512" alt="Screen Shot 1444-02-18 at 12 11 07 AM" src="https://user-images.githubusercontent.com/94755943/190010164-d5c74434-f361-418b-98f0-a394d854b623.png">
+<img width="1083" alt="Screen Shot 1444-02-22 at 3 51 17 PM" src="https://user-images.githubusercontent.com/94755943/190903054-3f2ec8b6-f1bb-49f7-a68e-c6d2cebaa077.png">
 
-<img width="1512" alt="Screen Shot 1444-02-18 at 12 10 31 AM" src="https://user-images.githubusercontent.com/94755943/190010177-d4dd9ff4-ad5d-47bb-932d-71a6e7c92648.png">
+<img width="1081" alt="Screen Shot 1444-02-22 at 3 52 14 PM" src="https://user-images.githubusercontent.com/94755943/190903067-883dfbc2-c06b-4b19-80ff-b96a3e7508e0.png">
+
 
 ## Preprocessing :
 We had to deal with the dataset separately and clean it in each sector 
